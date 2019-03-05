@@ -1,5 +1,7 @@
 Forked version for personal blog - many thanks to taylantatli for his work on this (check out his github - lots of great themes - https://github.com/taylantatli)
 
+Setup instructions - https://taylantatli.github.io/Moon/moon-theme/
+
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
 ## Features
